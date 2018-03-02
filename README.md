@@ -1,6 +1,10 @@
 # ALAREM
 Location-based Smart Alarm
 
+![ALAREM](img/splash.png)
+![ALAREM](img/login.png)
+![ALAREM](img/menu.png)
+
 # Deskripsi Umum Aplikasi
 
 ALAREM adalah aplikasi alarm yang bekerja sesuai lokasi pengguna yang sudah ditentukan. <br/>
