@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "79331846401",
+    "firebase_url": "https://alarem-fcb67.firebaseio.com",
+    "project_id": "alarem-fcb67",
+    "storage_bucket": "alarem-fcb67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79331846401:android:45398d3ae55b9847",
+        "android_client_info": {
+          "package_name": "com.gercep.alarem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79331846401-9lef6tgl86omc69hikg7qm3e0k3kvnp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCojqErtnWK-tsMoX2o-qDDAW-k-bKWyCc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
