@@ -1,9 +1,7 @@
 # ALAREM
 Location-based Smart Alarm
 
-![ALAREM](img/splash.png height="350")
-![ALAREM](img/login.png height="350")
-![ALAREM](img/menu.png height="350")
+![ALAREM](img/splash.png)
 
 # Deskripsi Umum Aplikasi
 
